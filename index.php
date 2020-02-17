@@ -27,7 +27,6 @@
 <!--Nav include.-->
         <?php include 'includes/nav.php' ?>
 
-<!--Div for background color for nav-->
 <header>
 
     <div class="slide_show">
@@ -35,16 +34,7 @@
         <img src="images/bikers_2.jpg">
         <img src="images/runners_2.jpg">
     </div>
-
-    <!--
-    <div>
-        <p>March 28th and 29th</p>
-        <p><a href="#">Register Today!</a></p>
-    </div>
--->
-
-
-
+    
 </header>
 
 <main>
@@ -124,8 +114,6 @@
 <script type="text/javascript" src="styles/slick/slick/slick.min.js"></script>
 <!--jQuery Button/Nav bar scripts-->
 <script src="scripts/script.js"></script>
-<!--Form Script-->
-<script src="scripts/form_script.js"></script>
 </body>
 
 </html>
