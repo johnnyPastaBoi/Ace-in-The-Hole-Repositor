@@ -2,7 +2,7 @@
     <!--Div to add grid area to organize logo and hamburger menu-->
     <div>
         <!--Logo-->
-        <a href="../index.html"><img src="images/logos/logo_2.png" class="logo" alt="ace in the hole logo"></a>
+        <a href="index.php"><img src="images/logos/logo_2.png" class="logo" alt="ace in the hole logo"></a>
         <!--Hamburger Menu-->
         <button class="hamburger hamburger--collapse" type="button">
                 <span class="hamburger-box">
